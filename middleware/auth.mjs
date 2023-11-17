@@ -13,6 +13,7 @@ const ACCEPTED_DOMAINS = ['http://localhost:3000',
                           'https://zinder-mail-server.onrender.com',
                           'https://zinder-file-server.onrender.com',
                           'https://zinder.onrender.com',
+                          'https://zinder-app.onrender.com',
                           'https://zinder.com.ng',
                         ];
 
