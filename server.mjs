@@ -67,7 +67,7 @@ app.use(express.static(staticRoot));
 let serverDeployment = [];
 // app.listen wont work as it creates a new app!!
 server.listen(app.get("port"), function () {
-  let mes = `\t========\t\Available Server Running\n[Port: ${app.get(
+  let mes = `\t========\t\Available Server Running\n[Domain: ${domainUrl}] on [Server PORT: ${app.get(
     "port"
   )}]\n[URL:${domainUrl}:${app.get("port")}]`;
   let now = new Date(Date.now())
