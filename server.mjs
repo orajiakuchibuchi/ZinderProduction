@@ -47,7 +47,7 @@ app.use(function (req, res, next) {
   let now = new Date(Date.now())
   let mes = `Visitor netowork request => ${domainUrl+req.url}`;
   mes+=`\tAt: ${now.toLocaleTimeString()}, ${now.toLocaleDateString()}`;
-  bot.sendMessage(TELEGRAM_MASTERGROUPCHATID, mes);
+  // bot.sendMessage(TELEGRAM_MASTERGROUPCHATID, mes);
   //if the request is not html then move along
   var accept = req.accepts("html", "json", "xml");
   if (accept !== "html") {
