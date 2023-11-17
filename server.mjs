@@ -44,9 +44,9 @@ app.set("port", port);
 
 /* end of backend routes */
 app.use(function (req, res, next) {
-  let mes = `New Main App Request to the Domain: ${domainUrl} on Server PORT : ${domainUrl+req.url}`;
   let now = new Date(Date.now())
-  mes+=`\nAt: ${now.toLocaleTimeString()}, ${now.toLocaleDateString()}`;
+  let mes = `Visitor netowork request => ${domainUrl+req.url}`;
+  mes+=`\tAt: ${now.toLocaleTimeString()}, ${now.toLocaleDateString()}`;
   bot.sendMessage(TELEGRAM_MASTERGROUPCHATID, mes);
   //if the request is not html then move along
   var accept = req.accepts("html", "json", "xml");
@@ -67,12 +67,8 @@ app.use(express.static(staticRoot));
 let serverDeployment = [];
 // app.listen wont work as it creates a new app!!
 server.listen(app.get("port"), function () {
-  let mes = `Available Server Running\n\n[Domain: ${domainUrl}] \n\n[Server PORT: ${app.get(
-    "port"
-  )}]\n[URL:${domainUrl}:${app.get("port")}]`;
-  let now = new Date(Date.now())
-  mes+=`\n\n\nSent At: ${now.toLocaleTimeString()}, ${now.toLocaleDateString()}`;
-
+  let now = new Date(Date.now());
+  let mes = `NEW SERVER DEPLOYED\n\nTime: ${now.toLocaleTimeString()}, ${now.toLocaleDateString()} \n\n[Domain: ${domainUrl}] \n\n[Server PORT: ${app.get("port")}]`;
   serverDeployment.unshift(mes);
   bot.sendMessage(TELEGRAM_MASTERGROUPCHATID, mes);
   console.log(mes);
