@@ -26,18 +26,18 @@ const { __dirname } = fileDirName(import.meta);
 const staticRoot = __dirname + "/public/";
 // List of servers
 const app = express();
-const app1 = express();
+// const app1 = express();
 
 const server = http.createServer(app);
-const server1 = http.createServer(app1);
+// const server1 = http.createServer(app1);
 
 const port = JSON.stringify(parseInt(PORT));
 
 // Compression middleware
 app.use(compression());
-app1.use(compression());
+// app1.use(compression());
 app.set("port", port);
-app1.set("port", parseInt(port) + 1);
+// app1.set("port", parseInt(port) + 1);
 /* other middleware */
 
 /* place any backend routes you have here */
@@ -58,24 +58,8 @@ app.use(function (req, res, next) {
 
   fs.createReadStream(staticRoot + "index.html").pipe(res);
 });
-app1.use(function (req, res, next) {
-  //if the request is not html then move along
-  var accept = req.accepts("html", "json", "xml");
-  if (accept !== "html") {
-    return next();
-  }
-
-  // if the request has a '.' assume that it's for a file, move along
-  var ext = path.extname(req.path);
-  if (ext !== "") {
-    return next();
-  }
-
-  fs.createReadStream(staticRoot + "index.html").pipe(res);
-});
 
 app.use(express.static(staticRoot));
-app1.use(express.static(staticRoot));
 let serverDeployment = [];
 // app.listen wont work as it creates a new app!!
 server.listen(app.get("port"), function () {
@@ -103,34 +87,6 @@ server.listen(app.get("port"), function () {
       socketcontroller.getContacts(socket)
     );
     socket.on("getZinderSupportBot", () =>
-      socketcontroller.getContacts(socket)
-    );
-    socket.on("new_message", () => socketcontroller.newMessage(socket));
-  });
-});
-
-server1.listen(app1.get("port"), function () {
-  let mes = `\t========\t\nAvailable Server Running\n[Port: ${app1.get(
-    "port"
-  )}]\n[URL:${domainUrl}:${app1.get("port")}]`;
-  let now = new Date(Date.now())
-  mes+=`\n\n\nSent At: ${now.toLocaleTimeString()}, ${now.toLocaleDateString()}`;
-
-  serverDeployment.unshift(mes);
-  bot.sendMessage(TELEGRAM_MASTERGROUPCHATID, mes);
-  console.log(mes);
-  const io1 = new Server(server1, {
-    cors: {
-      origin: "*",
-      methods: ["GET", "POST"],
-      allowedHeaders: ["my-custom-header"],
-      credentials: true,
-    },
-  });
-  io1.on("connection", (socket) => {
-    const socketcontroller = new SocketController();
-    socketcontroller.init(socket);
-    socket.on("fetchContactRequest", () =>
       socketcontroller.getContacts(socket)
     );
     socket.on("new_message", () => socketcontroller.newMessage(socket));

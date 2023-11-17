@@ -5,13 +5,11 @@ import compression from "compression";
 import bot from "./app/service/telegram.service.mjs";
 dotenv.config();
 const domainUrl = process.env.DOMAINURL_DEV;
-const DOMAINURL_DEV_PORT = process.env.DOMAINURL_DEV_PORT;
-const DOMAINURL_DEV_PORT_2 = process.env.DOMAINURL_DEV_PORT_2;
 const domainUrlprod = process.env.DOMAINURL;
 const TELEGRAM_MASTERGROUPCHATID = process.env.TELEGRAM_MASTERGROUPCHATID;
 const PORT = process.env.LOAD_BALANCERF_PORT || process.env.LOAD_BALANCERF_NODE_ENV || '7001';
 const lbServer = express();
-const servers = [domainUrl+':'+DOMAINURL_DEV_PORT,domainUrl+':'+DOMAINURL_DEV_PORT_2];
+const servers = [domainUrl];
 const serverConnections = [0,0,0];
 let current = 0;
 const handler = (req, res) => {
