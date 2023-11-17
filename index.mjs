@@ -31,7 +31,7 @@ lbServer.use(compression());
 /* other middleware */
 // app.listen wont work as it creates a new app!!
 lbServer.listen(lbServer.get('port'), function() {
-  let mes = `\t========\t\nMain App Running\n[Port: ${lbServer.get(
+  let mes = `\t========\t\nMain App Deployed\n[Port: ${lbServer.get(
     "port"
   )}]\n[Dev URL:${domainUrl}:${lbServer.get("port")}]
   \n[Prod URL:${domainUrlprod}]`;
