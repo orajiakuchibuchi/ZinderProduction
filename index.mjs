@@ -19,12 +19,10 @@ const serverConnections = [0,0,0];
 let current = 0;
 const handler = (req, res) => {
   const server = servers[current];
-  if(serverConnections[current] > 2000){
-    if(current >= servers.length-1){
-      current=0;
-    }else{
-      current++;
-    }
+  if(current >= servers.length-1){
+    current=0;
+  }else{
+    current++;
   }
   serverConnections[current]++;
   console.log("=======");
