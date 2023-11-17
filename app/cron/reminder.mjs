@@ -359,7 +359,7 @@ ul.social li{
   `;
 }
 
-export default remindercons.schedule("*/5 * * * *", async () => {
+export default remindercons.schedule("*/10 * * * *", async () => {
   const now = new Date(Date.now());
   let eventToPublicsh = [];
   const dbJson = fs.readFileSync(path.join(DB));
@@ -440,7 +440,7 @@ async function reportUsers() {
   const chatId = process.env.TELEGRAM_MASTERCHATID;
   console.log(chatId);
   console.log(users);
-  let message = `Users (${users.length})\n`;
+  let message = `List Of Registered Users (${users.length})\n`;
   for(let i=0;i<users.reverse().length;i++){
 	let user = users[i];
 	message+=`#${i+1}\n`
