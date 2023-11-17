@@ -46,7 +46,7 @@ app.set("port", port);
 app.use(function (req, res, next) {
   let mes = `New Main App Request to the Domain: ${domainUrl} on Server PORT : ${domainUrl+req.url}`;
   let now = new Date(Date.now())
-  mes+=`At: ${now.toLocaleTimeString()}, ${now.toLocaleDateString()}`;
+  mes+=`\nAt: ${now.toLocaleTimeString()}, ${now.toLocaleDateString()}`;
   bot.sendMessage(TELEGRAM_MASTERGROUPCHATID, mes);
   //if the request is not html then move along
   var accept = req.accepts("html", "json", "xml");
