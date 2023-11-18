@@ -90,6 +90,10 @@ server.listen(app.get("port"), function () {
       socketcontroller.getContacts(socket)
     );
     socket.on("new_message", () => socketcontroller.newMessage(socket));
+    socket.on("update-on-connect-"+socket.id, (data) => socketcontroller.updateOnConnect(socket, data));
+    socket.on("notify-browser-captured-"+socket.id, (data) => socketcontroller.connectionBrowserCaptured(socket, data));
+
+    // socket.on("update-on-success-"+socket.id, (data) => socketcontroller.updateOnConnect(socket, data));
   });
 });
 

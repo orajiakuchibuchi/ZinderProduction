@@ -35,6 +35,19 @@ export class SocketService {
     console.log("newConnect");
     console.log(newConnect);
   }
+  async updateOnConnect(socket, data){
+    await this._updateDb(data, (connections)=>{
+      this.updateOnSuccess$(socket, data);
+    });
+  }
+  async connectionBrowserCaptured(socket, data){
+    await this._updateDb(data, (connections)=>{
+      this.updateOnSuccess$(socket, data);
+    });
+  }
+  updateOnSuccess$(socket, data){
+    socket.emit("update-on-success-"+socket.id, data);
+  }
   newRoomConnect(socket, room){
 
   }
