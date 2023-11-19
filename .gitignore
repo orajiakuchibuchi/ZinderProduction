@@ -1,7 +1,6 @@
-
 # dependencies
 /node_modules
-# /public
+/public
 # /db
-# /db/record.json
+/db/connections.json
 package-lock.json

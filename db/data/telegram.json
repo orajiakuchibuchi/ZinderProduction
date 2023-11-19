@@ -1,6 +1,517 @@
 {
   "messages": [
     {
+      "message_id": 1589,
+      "from": {
+        "id": 6524555624,
+        "is_bot": true,
+        "first_name": "Zinder Client Reporter",
+        "username": "ZinderClientReporterBot"
+      },
+      "chat": {
+        "id": -1001995437292,
+        "title": "Zinder Report Log",
+        "type": "supergroup"
+      },
+      "date": 1700397064,
+      "text": "Broadcasted Notification\n#j4Zr9Udb40E68k1NAAAF User connected with Chrome browser of version 119.0.0.0 running on Windows Operating system of OS version windows-10. More Info are: \nOrientation scale landscape \nDevice Type: desktop\nUser Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+      "entities": [
+        {
+          "offset": 25,
+          "length": 21,
+          "type": "hashtag"
+        },
+        {
+          "offset": 93,
+          "length": 9,
+          "type": "url"
+        },
+        {
+          "offset": 331,
+          "length": 9,
+          "type": "url"
+        }
+      ]
+    },
+    {
+      "message_id": 1560,
+      "from": {
+        "id": 6524555624,
+        "is_bot": true,
+        "first_name": "Zinder Client Reporter",
+        "username": "ZinderClientReporterBot"
+      },
+      "chat": {
+        "id": -1001995437292,
+        "title": "Zinder Report Log",
+        "type": "supergroup"
+      },
+      "date": 1700395974,
+      "text": "Broadcasted Notification\n#eY1toiwRjfQ6rtfvAAAD User connected with Chrome browser of version 119.0.0.0 running on Windows Operating system of OS version windows-10. More Info are: \nOrientation scale landscape \nDevice Type: desktop\nUser Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+      "entities": [
+        {
+          "offset": 25,
+          "length": 21,
+          "type": "hashtag"
+        },
+        {
+          "offset": 93,
+          "length": 9,
+          "type": "url"
+        },
+        {
+          "offset": 331,
+          "length": 9,
+          "type": "url"
+        }
+      ]
+    },
+    {
+      "message_id": 1551,
+      "from": {
+        "id": 6524555624,
+        "is_bot": true,
+        "first_name": "Zinder Client Reporter",
+        "username": "ZinderClientReporterBot"
+      },
+      "chat": {
+        "id": -1001995437292,
+        "title": "Zinder Report Log",
+        "type": "supergroup"
+      },
+      "date": 1700395881,
+      "text": "Broadcasted Notification\n#t-0f4u6tT-JscrZoAAAH User connected with Chrome browser of version 119.0.0.0 running on Windows Operating system of OS version windows-10. More Info are: \nOrientation scale landscape \nDevice Type: desktop\nUser Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+      "entities": [
+        {
+          "offset": 25,
+          "length": 2,
+          "type": "hashtag"
+        },
+        {
+          "offset": 93,
+          "length": 9,
+          "type": "url"
+        },
+        {
+          "offset": 331,
+          "length": 9,
+          "type": "url"
+        }
+      ]
+    },
+    {
+      "message_id": 1504,
+      "from": {
+        "id": 6524555624,
+        "is_bot": true,
+        "first_name": "Zinder Client Reporter",
+        "username": "ZinderClientReporterBot"
+      },
+      "chat": {
+        "id": -1001995437292,
+        "title": "Zinder Report Log",
+        "type": "supergroup"
+      },
+      "date": 1700394829,
+      "text": "Broadcasted Notification\n#8NCZXfbyWI-HOxZtAAAD User connected with Chrome browser of version 119.0.0.0 running on Windows Operating system of OS version windows-10. More Info are: \nOrientation scale landscape \nDevice Type: desktop\nUser Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+      "entities": [
+        {
+          "offset": 25,
+          "length": 11,
+          "type": "hashtag"
+        },
+        {
+          "offset": 93,
+          "length": 9,
+          "type": "url"
+        },
+        {
+          "offset": 331,
+          "length": 9,
+          "type": "url"
+        }
+      ]
+    },
+    {
+      "message_id": 1496,
+      "from": {
+        "id": 6524555624,
+        "is_bot": true,
+        "first_name": "Zinder Client Reporter",
+        "username": "ZinderClientReporterBot"
+      },
+      "chat": {
+        "id": -1001995437292,
+        "title": "Zinder Report Log",
+        "type": "supergroup"
+      },
+      "date": 1700394704,
+      "text": "Broadcasted Notification\n#mG-CvlSy8z6tyW92AAAD User connected with Chrome browser of version 119.0.0.0 running on Windows Operating system of OS version windows-10. More Info are: \nOrientation scale landscape \nDevice Type: desktop\nUser Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+      "entities": [
+        {
+          "offset": 25,
+          "length": 3,
+          "type": "hashtag"
+        },
+        {
+          "offset": 93,
+          "length": 9,
+          "type": "url"
+        },
+        {
+          "offset": 331,
+          "length": 9,
+          "type": "url"
+        }
+      ]
+    },
+    {
+      "message_id": 1489,
+      "from": {
+        "id": 6524555624,
+        "is_bot": true,
+        "first_name": "Zinder Client Reporter",
+        "username": "ZinderClientReporterBot"
+      },
+      "chat": {
+        "id": -1001995437292,
+        "title": "Zinder Report Log",
+        "type": "supergroup"
+      },
+      "date": 1700394638,
+      "text": "Broadcasted Notification\n#CZBrgBHboHCpGTtTAAAB User connected with Chrome browser of version 119.0.0.0 running on Windows Operating system of OS version windows-10. More Info are: \nOrientation scale landscape \nDevice Type: desktop\nUser Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+      "entities": [
+        {
+          "offset": 25,
+          "length": 21,
+          "type": "hashtag"
+        },
+        {
+          "offset": 93,
+          "length": 9,
+          "type": "url"
+        },
+        {
+          "offset": 331,
+          "length": 9,
+          "type": "url"
+        }
+      ]
+    },
+    {
+      "message_id": 1467,
+      "from": {
+        "id": 6524555624,
+        "is_bot": true,
+        "first_name": "Zinder Client Reporter",
+        "username": "ZinderClientReporterBot"
+      },
+      "chat": {
+        "id": -1001995437292,
+        "title": "Zinder Report Log",
+        "type": "supergroup"
+      },
+      "date": 1700394084,
+      "text": "Broadcasted Notification\n#6WgRUiUBBwiOkfNKAAAL User connected with Chrome browser of version 119.0.0.0 running on Windows Operating system of OS version windows-10. More Info are: \nOrientation scale landscape \nDevice Type: desktop\nUser Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+      "entities": [
+        {
+          "offset": 25,
+          "length": 21,
+          "type": "hashtag"
+        },
+        {
+          "offset": 93,
+          "length": 9,
+          "type": "url"
+        },
+        {
+          "offset": 331,
+          "length": 9,
+          "type": "url"
+        }
+      ]
+    },
+    {
+      "message_id": 1426,
+      "from": {
+        "id": 6524555624,
+        "is_bot": true,
+        "first_name": "Zinder Client Reporter",
+        "username": "ZinderClientReporterBot"
+      },
+      "chat": {
+        "id": -1001995437292,
+        "title": "Zinder Report Log",
+        "type": "supergroup"
+      },
+      "date": 1700392781,
+      "text": "Broadcasted Notification\n#UDTFwvx6fWNJksUkAAAB User connected with Chrome browser of version 119.0.0.0 running on Windows Operating system of OS version windows-10. More Info are: \nOrientation scale landscape \nDevice Type: desktop\nUser Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+      "entities": [
+        {
+          "offset": 25,
+          "length": 21,
+          "type": "hashtag"
+        },
+        {
+          "offset": 93,
+          "length": 9,
+          "type": "url"
+        },
+        {
+          "offset": 331,
+          "length": 9,
+          "type": "url"
+        }
+      ]
+    },
+    {
+      "message_id": 1421,
+      "from": {
+        "id": 6524555624,
+        "is_bot": true,
+        "first_name": "Zinder Client Reporter",
+        "username": "ZinderClientReporterBot"
+      },
+      "chat": {
+        "id": -1001995437292,
+        "title": "Zinder Report Log",
+        "type": "supergroup"
+      },
+      "date": 1700392759,
+      "text": "Broadcasted Notification\n#JMjXlLbXMuMiByuDAAAB User connected with Chrome browser of version 119.0.0.0 running on Windows Operating system of OS version windows-10. More Info are: \nOrientation scale landscape \nDevice Type: desktop\nUser Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+      "entities": [
+        {
+          "offset": 25,
+          "length": 21,
+          "type": "hashtag"
+        },
+        {
+          "offset": 93,
+          "length": 9,
+          "type": "url"
+        },
+        {
+          "offset": 331,
+          "length": 9,
+          "type": "url"
+        }
+      ]
+    },
+    {
+      "message_id": 1413,
+      "from": {
+        "id": 6524555624,
+        "is_bot": true,
+        "first_name": "Zinder Client Reporter",
+        "username": "ZinderClientReporterBot"
+      },
+      "chat": {
+        "id": -1001995437292,
+        "title": "Zinder Report Log",
+        "type": "supergroup"
+      },
+      "date": 1700392644,
+      "text": "Broadcasted Notification\n#yPAZmAdWBFMIw-bdAAAD User connected with Chrome browser of version 119.0.0.0 running on Windows Operating system of OS version windows-10. More Info are: \nOrientation scale landscape \nDevice Type: desktop\nUser Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+      "entities": [
+        {
+          "offset": 25,
+          "length": 14,
+          "type": "hashtag"
+        },
+        {
+          "offset": 93,
+          "length": 9,
+          "type": "url"
+        },
+        {
+          "offset": 331,
+          "length": 9,
+          "type": "url"
+        }
+      ]
+    },
+    {
+      "message_id": 1397,
+      "from": {
+        "id": 6524555624,
+        "is_bot": true,
+        "first_name": "Zinder Client Reporter",
+        "username": "ZinderClientReporterBot"
+      },
+      "chat": {
+        "id": -1001995437292,
+        "title": "Zinder Report Log",
+        "type": "supergroup"
+      },
+      "date": 1700392419,
+      "text": "Broadcasted Notification\n#qfxtzgON2pQCoECBAAAD User connected with Chrome browser of version 119.0.0.0 running on Windows Operating system of OS version windows-10. More Info are: \nOrientation scale landscape \nDevice Type: desktop\nUser Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+      "entities": [
+        {
+          "offset": 25,
+          "length": 21,
+          "type": "hashtag"
+        },
+        {
+          "offset": 93,
+          "length": 9,
+          "type": "url"
+        },
+        {
+          "offset": 331,
+          "length": 9,
+          "type": "url"
+        }
+      ]
+    },
+    {
+      "message_id": 1311,
+      "from": {
+        "id": 6524555624,
+        "is_bot": true,
+        "first_name": "Zinder Client Reporter",
+        "username": "ZinderClientReporterBot"
+      },
+      "chat": {
+        "id": -1001995437292,
+        "title": "Zinder Report Log",
+        "type": "supergroup"
+      },
+      "date": 1700378497,
+      "text": "Broadcasted Notification\n#VaMwMchLx3nvegNPAAAL User connected with Chrome browser of version 119.0.0.0 running on Windows Operating system of OS version windows-10. More Info are: \nOrientation scale landscape \nDevice Type: desktop\nUser Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+      "entities": [
+        {
+          "offset": 25,
+          "length": 21,
+          "type": "hashtag"
+        },
+        {
+          "offset": 93,
+          "length": 9,
+          "type": "url"
+        },
+        {
+          "offset": 331,
+          "length": 9,
+          "type": "url"
+        }
+      ]
+    },
+    {
+      "message_id": 1273,
+      "from": {
+        "id": 6524555624,
+        "is_bot": true,
+        "first_name": "Zinder Client Reporter",
+        "username": "ZinderClientReporterBot"
+      },
+      "chat": {
+        "id": -1001995437292,
+        "title": "Zinder Report Log",
+        "type": "supergroup"
+      },
+      "date": 1700371883,
+      "text": "Broadcasted Notification\n#ROcw_hy_5iwnU6MWAAAJ User connected with Chrome browser of version 119.0.0.0 running on Windows Operating system of OS version windows-10. More Info are: \nOrientation scale landscape \nDevice Type: desktop\nUser Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+      "entities": [
+        {
+          "offset": 25,
+          "length": 21,
+          "type": "hashtag"
+        },
+        {
+          "offset": 93,
+          "length": 9,
+          "type": "url"
+        },
+        {
+          "offset": 331,
+          "length": 9,
+          "type": "url"
+        }
+      ]
+    },
+    {
+      "message_id": 1059,
+      "from": {
+        "id": 6524555624,
+        "is_bot": true,
+        "first_name": "Zinder Client Reporter",
+        "username": "ZinderClientReporterBot"
+      },
+      "chat": {
+        "id": -1001995437292,
+        "title": "Zinder Report Log",
+        "type": "supergroup"
+      },
+      "date": 1700324734,
+      "text": "Broadcasted Notification\n#WKFEInHnOapsYtAXAAAL User connected with Chrome browser of version 119.0.0.0 running on Windows Operating system of OS version windows-10. More Info are: \nOrientation scale landscape \nDevice Type: desktop\nUser Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+      "entities": [
+        {
+          "offset": 25,
+          "length": 21,
+          "type": "hashtag"
+        },
+        {
+          "offset": 93,
+          "length": 9,
+          "type": "url"
+        },
+        {
+          "offset": 331,
+          "length": 9,
+          "type": "url"
+        }
+      ]
+    },
+    {
+      "message_id": 960,
+      "from": {
+        "id": 6524555624,
+        "is_bot": true,
+        "first_name": "Zinder Client Reporter",
+        "username": "ZinderClientReporterBot"
+      },
+      "chat": {
+        "id": -1001995437292,
+        "title": "Zinder Report Log",
+        "type": "supergroup"
+      },
+      "date": 1700319304,
+      "text": "New user #306hY2aJEROQHOtfAAAD connected with Chrome browser of version 119.0.0.0 running on Windows Operating system of OS version\n       windows-10. More Info are: \nOrientation scale landscape \nDevice Type: desktop\nUser Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+      "entities": [
+        {
+          "offset": 9,
+          "length": 21,
+          "type": "hashtag"
+        },
+        {
+          "offset": 72,
+          "length": 9,
+          "type": "url"
+        },
+        {
+          "offset": 317,
+          "length": 9,
+          "type": "url"
+        }
+      ]
+    },
+    {
+      "message_id": 901,
+      "from": {
+        "id": 6524555624,
+        "is_bot": true,
+        "first_name": "Zinder Client Reporter",
+        "username": "ZinderClientReporterBot"
+      },
+      "chat": {
+        "id": -1001995437292,
+        "title": "Zinder Report Log",
+        "type": "supergroup"
+      },
+      "date": 1700318873,
+      "text": "New connection lWKaHHiFZpUjtciAAAAB browser was captured"
+    },
+    {
       "message_id": 149,
       "from": {
         "id": 6547175548,

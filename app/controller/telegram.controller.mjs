@@ -17,7 +17,6 @@ const MAILER_API = process.env.MAIL_SERVER_URL;
 
 export class TelegramController {
   constructor() {
-    this._listenMessage();
   }
 
   async messageAdmin(req, res) {

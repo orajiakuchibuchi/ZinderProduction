@@ -1,1 +1,59 @@
-[]
+[
+  {
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "os": "Windows",
+    "browser": "Chrome",
+    "device": "Unknown",
+    "os_version": "windows-10",
+    "browser_version": "119.0.0.0",
+    "deviceType": "desktop",
+    "orientation": "landscape",
+    "id": "j4Zr9Udb40E68k1NAAAF",
+    "status": "connected",
+    "created_at": 1700397062924,
+    "updated_at": 1700397062924
+  },
+  {
+    "id": "j4Zr9Udb40E68k1NAAAF",
+    "created_at": 1700397062925,
+    "updated_at": 1700397062925
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "os": "Windows",
+    "browser": "Chrome",
+    "device": "Unknown",
+    "os_version": "windows-10",
+    "browser_version": "119.0.0.0",
+    "deviceType": "desktop",
+    "orientation": "landscape",
+    "id": "JxXn10vkY35bx5ctAAAB",
+    "status": "connected",
+    "created_at": 1700396562795,
+    "updated_at": 1700396562795
+  },
+  {
+    "id": "JxXn10vkY35bx5ctAAAB",
+    "created_at": 1700396562760,
+    "updated_at": 1700396562760
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "os": "Windows",
+    "browser": "Chrome",
+    "device": "Unknown",
+    "os_version": "windows-10",
+    "browser_version": "119.0.0.0",
+    "deviceType": "desktop",
+    "orientation": "landscape",
+    "id": "eY1toiwRjfQ6rtfvAAAD",
+    "status": "connected",
+    "created_at": 1700395968635,
+    "updated_at": 1700395968635
+  },
+  {
+    "id": "eY1toiwRjfQ6rtfvAAAD",
+    "created_at": 1700395968607,
+    "updated_at": 1700395968607
+  }
+]
