@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.mjs",
-    "serve": "node server.mjs",
+    "serve": "node index.mjs",
     "startFs": "node FileServer.mjs",
     "gitdeploy": "git add .;git commit -m 'deploying build';git push;",
     "deploy": "git add . git commit -m `deploying build` git push;",
