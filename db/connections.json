@@ -8,15 +8,15 @@
     "browser_version": "119.0.0.0",
     "deviceType": "desktop",
     "orientation": "landscape",
-    "id": "j4Zr9Udb40E68k1NAAAF",
+    "id": "wtOqE6fFoXhAExM7AAAH",
     "status": "connected",
-    "created_at": 1700397062924,
-    "updated_at": 1700397062924
+    "created_at": 1700986856108,
+    "updated_at": 1700986856108
   },
   {
-    "id": "j4Zr9Udb40E68k1NAAAF",
-    "created_at": 1700397062925,
-    "updated_at": 1700397062925
+    "id": "wtOqE6fFoXhAExM7AAAH",
+    "created_at": 1700986856083,
+    "updated_at": 1700986856083
   },
   {
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
@@ -27,15 +27,15 @@
     "browser_version": "119.0.0.0",
     "deviceType": "desktop",
     "orientation": "landscape",
-    "id": "JxXn10vkY35bx5ctAAAB",
+    "id": "yDc7Q1c18VCfzAcVAAAF",
     "status": "connected",
-    "created_at": 1700396562795,
-    "updated_at": 1700396562795
+    "created_at": 1700986525640,
+    "updated_at": 1700986525640
   },
   {
-    "id": "JxXn10vkY35bx5ctAAAB",
-    "created_at": 1700396562760,
-    "updated_at": 1700396562760
+    "id": "yDc7Q1c18VCfzAcVAAAF",
+    "created_at": 1700986525553,
+    "updated_at": 1700986525553
   },
   {
     "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
@@ -46,14 +46,226 @@
     "browser_version": "119.0.0.0",
     "deviceType": "desktop",
     "orientation": "landscape",
-    "id": "eY1toiwRjfQ6rtfvAAAD",
+    "id": "1qMuMvEfW-nHaUrxAAAD",
     "status": "connected",
-    "created_at": 1700395968635,
-    "updated_at": 1700395968635
+    "created_at": 1700974938243,
+    "updated_at": 1700974938243
   },
   {
-    "id": "eY1toiwRjfQ6rtfvAAAD",
-    "created_at": 1700395968607,
-    "updated_at": 1700395968607
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "os": "Windows",
+    "browser": "Chrome",
+    "device": "Unknown",
+    "os_version": "windows-10",
+    "browser_version": "119.0.0.0",
+    "deviceType": "desktop",
+    "orientation": "landscape",
+    "id": "00kLTphdrV2bxVNpAAAB",
+    "status": "connected",
+    "created_at": 1700974867657,
+    "updated_at": 1700974867657
+  },
+  {
+    "id": "00kLTphdrV2bxVNpAAAB",
+    "created_at": 1700974867601,
+    "updated_at": 1700974867601
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "os": "Windows",
+    "browser": "Chrome",
+    "device": "Unknown",
+    "os_version": "windows-10",
+    "browser_version": "119.0.0.0",
+    "deviceType": "desktop",
+    "orientation": "landscape",
+    "id": "PPT7mp41HZLMV8w6AABF",
+    "status": "connected",
+    "created_at": 1700974829514,
+    "updated_at": 1700974829514
+  },
+  {
+    "id": "PPT7mp41HZLMV8w6AABF",
+    "created_at": 1700974829447,
+    "updated_at": 1700974829447
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "os": "Windows",
+    "browser": "Chrome",
+    "device": "Unknown",
+    "os_version": "windows-10",
+    "browser_version": "119.0.0.0",
+    "deviceType": "desktop",
+    "orientation": "landscape",
+    "id": "tBEhn43jsuMRI3FSAABD",
+    "status": "connected",
+    "created_at": 1700966390385,
+    "updated_at": 1700966390385
+  },
+  {
+    "id": "tBEhn43jsuMRI3FSAABD",
+    "created_at": 1700966390367,
+    "updated_at": 1700966390367
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "os": "Windows",
+    "browser": "Chrome",
+    "device": "Unknown",
+    "os_version": "windows-10",
+    "browser_version": "119.0.0.0",
+    "deviceType": "desktop",
+    "orientation": "landscape",
+    "id": "LkVnPpdIAz6q-bb5AABB",
+    "status": "connected",
+    "created_at": 1700965957377,
+    "updated_at": 1700965957377
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "os": "Windows",
+    "browser": "Chrome",
+    "device": "Unknown",
+    "os_version": "windows-10",
+    "browser_version": "119.0.0.0",
+    "deviceType": "desktop",
+    "orientation": "landscape",
+    "id": "F_OVl6H1RVRtSzh-AAA_",
+    "status": "connected",
+    "created_at": 1700965596269,
+    "updated_at": 1700965596269
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "os": "Windows",
+    "browser": "Chrome",
+    "device": "Unknown",
+    "os_version": "windows-10",
+    "browser_version": "119.0.0.0",
+    "deviceType": "desktop",
+    "orientation": "landscape",
+    "id": "uWM71_6XtVZSW-qNAAA9",
+    "status": "connected",
+    "created_at": 1700965244472,
+    "updated_at": 1700965244472
+  },
+  {
+    "id": "uWM71_6XtVZSW-qNAAA9",
+    "created_at": 1700965244461,
+    "updated_at": 1700965244461
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "os": "Windows",
+    "browser": "Chrome",
+    "device": "Unknown",
+    "os_version": "windows-10",
+    "browser_version": "119.0.0.0",
+    "deviceType": "desktop",
+    "orientation": "landscape",
+    "id": "RoOnOhiZmnDN8X6aAAA7",
+    "status": "connected",
+    "created_at": 1700965217138,
+    "updated_at": 1700965217138
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "os": "Windows",
+    "browser": "Chrome",
+    "device": "Unknown",
+    "os_version": "windows-10",
+    "browser_version": "119.0.0.0",
+    "deviceType": "desktop",
+    "orientation": "landscape",
+    "id": "vG1PaaI32Q4KyUsnAAA5",
+    "status": "connected",
+    "created_at": 1700965210289,
+    "updated_at": 1700965210289
+  },
+  {
+    "id": "vG1PaaI32Q4KyUsnAAA5",
+    "created_at": 1700965210268,
+    "updated_at": 1700965210268
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "os": "Windows",
+    "browser": "Chrome",
+    "device": "Unknown",
+    "os_version": "windows-10",
+    "browser_version": "119.0.0.0",
+    "deviceType": "desktop",
+    "orientation": "landscape",
+    "id": "wCEWAaxwW_nnP_X3AAA3",
+    "status": "connected",
+    "created_at": 1700965172221,
+    "updated_at": 1700965172221
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "os": "Windows",
+    "browser": "Chrome",
+    "device": "Unknown",
+    "os_version": "windows-10",
+    "browser_version": "119.0.0.0",
+    "deviceType": "desktop",
+    "orientation": "landscape",
+    "id": "dygA37E3wKRdIVz7AAA1",
+    "status": "connected",
+    "created_at": 1700965164124,
+    "updated_at": 1700965164124
+  },
+  {
+    "id": "dygA37E3wKRdIVz7AAA1",
+    "created_at": 1700965164106,
+    "updated_at": 1700965164106
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "os": "Windows",
+    "browser": "Chrome",
+    "device": "Unknown",
+    "os_version": "windows-10",
+    "browser_version": "119.0.0.0",
+    "deviceType": "desktop",
+    "orientation": "landscape",
+    "id": "_QDlJLLtkwOtRycIAAAz",
+    "status": "connected",
+    "created_at": 1700964848869,
+    "updated_at": 1700964848869
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "os": "Windows",
+    "browser": "Chrome",
+    "device": "Unknown",
+    "os_version": "windows-10",
+    "browser_version": "119.0.0.0",
+    "deviceType": "desktop",
+    "orientation": "landscape",
+    "id": "XA5QDReUFWXw-hWqAAAx",
+    "status": "connected",
+    "created_at": 1700964697676,
+    "updated_at": 1700964697676
+  },
+  {
+    "id": "XA5QDReUFWXw-hWqAAAx",
+    "created_at": 1700964697649,
+    "updated_at": 1700964697649
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "os": "Windows",
+    "browser": "Chrome",
+    "device": "Unknown",
+    "os_version": "windows-10",
+    "browser_version": "119.0.0.0",
+    "deviceType": "desktop",
+    "orientation": "landscape",
+    "id": "OHGy0ny50jMFJXPTAAAv",
+    "status": "connected",
+    "created_at": 1700964645455,
+    "updated_at": 1700964645455
   }
 ]
